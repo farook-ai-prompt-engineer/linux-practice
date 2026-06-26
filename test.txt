@@ -1,4 +1,9 @@
 hello
 github test
 farook github test
+<<<<<<< HEAD
 master branch line
+=======
+conflict branch line
+
+>>>>>>> conflict
